@@ -6,11 +6,11 @@ The graph below shows the life expectancy of people living in Asian regions from
 
 ![Writing image](./Life-expectancy-at-birth.png)
 
-## Writing (155 words)
+## Writing (191 words)
 
-A glance at the bar chart provided illustrates the number of adults engaging in prominent sports in the years of 1997 and 2017.
-It can be seen clearly that others than crickets, total amount of major sports enjoyers is greater in 2017 than 1997. It is also interesting to note that tennis always saw more players than others in both years.
+A glance at the line graph provided illustrates the life span of inhabitants in Asian regions from 1950 and foreshadows life span until 2300.
+It can be seen clearly that longevity in all regions rise sharply and continuously throughout the period. It is also interesting to note that other Eastern Asia remains to be the highest life expectancy region from 1950 to 2300.
 
-According to the chart, the number of adults prefer to play football and rugby skyrocketed by almost 20000 while the count of basketball players doubled from about 9000 in 1997 to more than 20000 in 2017. Tennis, golf, swimming all experienced an insignificant increment in active participants. The only declining sport is cricket, which sharply fell three-fold to just about 8000.
+According to the graph, Eastern Asians' longevity shot up from somewhere in the vicinity of 53 years to just under 80 years by 2000. This figure is anticipated to continue its growing trajectory in the following three decades though slowed down after 2050. Meanwhile other regions' life expectancy do not have distinctive features, their residents were expected to live up to 70 years old in 2000 and the figure is projected to be more than 90 in 2023.
 
-In conclusion, the bar chart reveals an overall grow in adult participants in prominent sports in 1997 and 2017, notably in football and rugby, with cricket being the only exception experiencing a drop.
+In conclusion, the bar chart reveals a remarkable and substantial rise in life span across Asia from 1950 to 2300. Eastern Asia consistently maintains the first position and anticipates life expectancy of 100 years. The remaining areas show less distinct differences and are projected to reach more than 90 years.
