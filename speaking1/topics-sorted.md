@@ -138,21 +138,21 @@
 4. Do you often go to the cinema with your friends?
 5. Do you think going to the cinema is a good way to spend time with friends?
 
-### Gift/presents
+### Gift/presents [x]
 
 1. What is one of the best gifts you’ve ever received? (Why?)
 2. Are you good at choosing gifts for other people? (Why/Why not?)
 3. What sort of gifts do you like to buy for friends? (Why?)
 4. Have you ever given someone a gift that you made yourself? (Why/Why not?)
 
-### Robots
+### Robots [x]
 
 - Do you know something about robots?
 - Did you like any film has a robot in it when you were a child?
 - Do you use robot in your daily life?
 - Will you be comfortable if you are on a car driven by a robot?
 
-### Geography
+### Geography []
 
 - How do you feel about geography?
 - Do you think learning geographic knowledge is useful for you?
