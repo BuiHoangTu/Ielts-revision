@@ -134,14 +134,14 @@ When and Where did you find it
 What you did do after you found it
 And explain how you felt about finding it
 
-### Describe something you do regularly to help you study or work
+### Describe something you do regularly to help you study or work [x]
 
 What it is
 How are you learn it
 When you do it
 And explain how you feel about it
 
-### Describe a public facility that has been renovated and improved
+### Describe a public facility that has been renovated and improved [x]
 
 What the facility is
 When it was renovated and improved
@@ -156,6 +156,7 @@ How you will achieve it
 And explain how important it is to you
 
 ### Describe a useful object in your home that you can not live without it
+
 What it is
 What you can do with it
 How often you use it
@@ -287,7 +288,7 @@ Why you went there
 What happened in the restaurants/shops
 And explain why you thin their service was bad
 
-### 17. Describe an occasion when you waited a long time for a nice thing
+### Describe an occasion when you waited a long time for a nice thing
 
 When it happened
 What the nice thing was
@@ -308,7 +309,6 @@ What the problem is?
 When and where does it happen?
 And explain how you solved the problem?
 
-
 ### Describe an important journey that was delayed
 
 When it was
@@ -324,18 +324,21 @@ Who you learned it from
 And explain how you feel about this skill
 
 ### Describe a time when you were very busy
+
 When this time was
 Why you were so busy
 What you did to deal with the situation
 And explain how you felt about being so busy
 
 ### Describe an unusual holiday or vacation you went on
+
 When and where you went
 Who you went with
 What you did there
 And explain why it was unusual
 
 ### Describe an occasion when you met someone complaining about something in the public (in the restaurant or other place)
+
 When and where it happened
 What he/she complained about
 What the result was
