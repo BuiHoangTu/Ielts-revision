@@ -3,19 +3,13 @@
 ## People
 
 ### Describe a person who is good at making people feel welcome in his/her home
+
 Who this person is
 When and how you met him/her
 How he/she welcomes visitors
 And explain why you think he/she is good at welcoming visitors
 
-### Describe a time when you helped someone (you worked or studied with)
-
-Who you helped
-Why you helped him/her
-How you helped him/her
-And explain how you felt about the experience
-
-### 33. Describe a peson who is good at teamwork
+### 33. Describe a person who is good at teamwork
 
 What team he/she joined
 What work he/she did
@@ -52,10 +46,12 @@ What achievement he/she has made
 And explain why you admire him/her
 
 ### Describe a piece of good advice that you gave to someone
+
 Who you gave the advice to
 To whom you gave the advice
 What the advice was
 And explain why you gave the advice
+
 ### Describe a person who has interesting ideas and opinions
 
 Who this person is
@@ -86,7 +82,8 @@ And explain you think why his/her ideas are interesting
 4. And explain why he/she can speak Vietnamese well
 
 ### Describe a person who enjoys cooking for others
-1. Who this person is 
+
+1. Who this person is
 2. What he/she likes to cook
 3. Who he/she cooks for
 4. And explain why he/she enjoys cooking
@@ -94,12 +91,14 @@ And explain you think why his/her ideas are interesting
 ## Place
 
 ### Describe a street market you have been to
+
 Where it is
 What you can buy there
 Why you chose to go to this market
 And explain what you think about the street market
 
 ### Describe a place-not in your home- where you go to relax
+
 Where the place is
 What the place tooks like
 How you spend your time in this place
@@ -121,6 +120,7 @@ And explain why it is beautiful
 5. And explain what it is like
 
 ### 2. Describe a place in your country that you are interested in
+
 1. Where it is
 2. How you knew it
 3. Why you are interested in it
@@ -190,7 +190,8 @@ How often you did the activity
 Who you did it with
 And explain why it was your favourite activity
 
-### Describe a job you would not like to do.
+### Describe a job you would not like to do
+
 What the job is?
 How you know about this job?
 How easy or difficult the job is?
@@ -228,31 +229,37 @@ And explain how you feel about it
 
 Which subject it is?
 How and where did you know this subject?
-How do you usually get information about this subject 
+How do you usually get information about this subject
 
 ### Describe a party that you enjoyed
+
 When you went to the party
 Where the party was held
 What kind of party it was
 And explain why you enjoyed this party
 
 ### Describe an activity that made you feel tired
+
 When it happened
 Where it took place
 What the activity was
 And explain why it made you feel tired
+
 ### Describe a rule that is important in your school or at work
 
 What the rule is
 If the people break this rule, what will happen
 Why do you think this is an important rule?
+
 ### 4. Describe an impressive work of art (such as a painting) you saw
+
 1. Where did you first see the artist
 2. What the painting is about
 3. Who the painter is
 4. And explain why do you enjoy it?
 
 ### Describe a photo that makes you feel happy
+
 1. You should say
 2. What the photo like
 3. When and where you took this photo
@@ -260,6 +267,13 @@ Why do you think this is an important rule?
 5. And explain why it makes you feel happy
 
 ## Events
+
+### Describe a time when you helped someone (you worked or studied with)
+
+Who you helped
+Why you helped him/her
+How you helped him/her
+And explain how you felt about the experience
 
 ### 32. Describe an occasion when you used a map
 
