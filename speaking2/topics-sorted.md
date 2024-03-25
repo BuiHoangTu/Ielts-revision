@@ -317,7 +317,7 @@ Who you were with
 What happened at that time
 And explain how it changed your life in good ways
 
-### Describe a time when you had a problem with using the computer
+### [Describe a time when you had a problem with using the computer](computer_problem.md)
 
 What the problem is?
 When and where does it happen?
