@@ -127,7 +127,7 @@ And explain why it is beautiful
 
 ## Thing
 
-### Describe somethings lost by others but found by you
+### [Describe somethings lost by others but found by you](lost_thing.md)
 
 What it was
 When and Where did you find it
